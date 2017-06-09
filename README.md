@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Install Node.js
+1. Download [Node.js](https://nodejs.org/dist/v6.11.0/node-v6.11.0.pkg), double click to install
+2. Install `cnpm`: open terminal and input `npm install -g cnpm --registry=https://registry.npm.taobao.org`
+
 ## Build Setup
 
 ``` bash
